@@ -1,0 +1,51 @@
+[
+    {
+        "name": "macroni soup",
+        "price": "35",
+        "tax": 2,
+        "total_price": 333,
+        "quantity": "9"
+    },
+    {
+        "name": "cheese burger",
+        "price": "30",
+        "tax": 2,
+        "total_price": 96,
+        "quantity": "3"
+    },
+    {
+        "name": "meat loaf",
+        "price": "160",
+        "tax": 8,
+        "total_price": 672,
+        "quantity": "4"
+    },
+    {
+        "name": "pizza margarita",
+        "price": 16,
+        "tax": 1,
+        "total_price": 68,
+        "quantity": "4"
+    },
+    {
+        "name": "burger",
+        "price": "43",
+        "tax": 2,
+        "total_price": 270,
+        "quantity": "6"
+    },
+    {
+        "name": "chicken nuggets",
+        "price": "90",
+        "tax": 4,
+        "total_price": 470,
+        "quantity": "5"
+    },
+    {
+        "name": "meat loaf",
+        "price": "160",
+        "tax": 8,
+        "total_price": 1176,
+        "quantity": "7"
+    }
+]

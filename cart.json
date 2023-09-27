@@ -1,0 +1,37 @@
+[
+    {
+        "name": "french fries",
+        "price": "30",
+        "tax": 2,
+        "total_price": 224,
+        "quantity": "7"
+    },
+    {
+        "name": "chicken nuggets",
+        "price": "90",
+        "tax": 4,
+        "total_price": 1034,
+        "quantity": "11"
+    },
+    {
+        "name": "french fries",
+        "price": "30",
+        "tax": 2,
+        "total_price": 128,
+        "quantity": "4"
+    },
+    {
+        "name": "mashed potatoes",
+        "price": "41",
+        "tax": 2,
+        "total_price": 129,
+        "quantity": "3"
+    },
+    {
+        "name": "burger",
+        "price": "43",
+        "tax": 2,
+        "total_price": 315,
+        "quantity": "7"
+    }
+]
